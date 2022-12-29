@@ -1,2 +1,2 @@
 # Testing40PythonNotes
-automatiom
+automation
